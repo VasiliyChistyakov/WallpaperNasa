@@ -5,7 +5,7 @@
 - URLSession
 - MVVM
 - JSON
-
+- UIImage
 
 <img src="https://user-images.githubusercontent.com/81886542/133325354-84c28b57-f232-4dbb-8e56-4d927c2f7092.png" width="300" />
 <img src="https://user-images.githubusercontent.com/81886542/133325359-1e565d6a-0fff-44ec-8245-f71b11587a8e.png" width="300" />
